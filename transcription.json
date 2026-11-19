@@ -1,0 +1,399 @@
+{
+  "source_title": "Asylum Periodicals",
+  "title_zh": "精神病院的院內刊物（1876）",
+  "version": "0.1.0",
+  "language": "en",
+  "catalogue": "https://archive.org/details/americanjournalo3318amer/page/n57/mode/1up",
+  "manifest": "https://archive.org/metadata/americanjournalo3318amer",
+  "source_ocr": "https://archive.org/details/americanjournalo3318amer",
+  "shelfmark": "MARC 000127299 / ark:/13960/t4fn3m18c",
+  "source_provider": "College of Physicians of Philadelphia, Historical Medical Library",
+  "historical_institution": "Judson B. Andrews",
+  "imprint": "The American Journal of Insanity, 33(1), July 1876, pp. 42–49",
+  "rights": "The nineteenth-century printed text is in the public domain in the United States. New editorial material and encoding are licensed under CC BY 4.0 wherever copyright applies.",
+  "coverage_note": "Complete journal article, printed pages 42–49, retained as eight source images. The first article leaf is unnumbered and located by the issue contents and adjacent pagination.",
+  "frames": [
+    {
+      "id": "f001",
+      "frame": 1,
+      "source": {
+        "canvas": "https://archive.org/details/americanjournalo3318amer/page/n57/mode/1up",
+        "url": "https://archive.org/download/americanjournalo3318amer/page/n57/mode/1up",
+        "original_url": "https://archive.org/download/americanjournalo3318amer/page/n57/mode/1up",
+        "size": [
+          2256,
+          4024
+        ],
+        "sha256": "1372ecf8c7e756f42dcd384e41901d98fd2daaf4808e16266129cffd1c33bc78"
+      },
+      "parts": [
+        {
+          "id": "f001-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "text",
+              "text": "ASYLUM PERIODICALS.",
+              "id": "f001-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "BY JUDSON B. ANDREWS, M. D.\nAssistant Physician, New York State Lunatic Asylum.",
+              "id": "f001-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "Among the many means of moral treatment of patients in asylums, that have been and are now employed, there is no one which has attracted so little attention from writers in Psychological Medicine, as the one at the head of this article. We have looked through the files of all the journals in the English language, upon the specialty, and have not discovered any reference to the existence, either past or present of serial publications conducted by the inmates of asylums. It is not our intention to write an essay upon the advantages to be derived from such intellectual exercises, or to consider the subject in its relations as a means of treatment, but rather to put on record a historical account of such efforts, so far as they have come to our knowledge.",
+              "id": "f001-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "The first paper of this character was issued under the following circumstances. In 1837, one of the patients of the Connecticut Retreat, who had been a printer, and also an editor, repaired to one of the printing offices in the City of Hartford, and, with the assistance there obtained, issued two numbers only, of a little sheet called the Retreat Gazette. He remained under treatment for some time, and was finally discharged without being restored.*",
+              "id": "f001-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "“The Asylum Journal is the first regular newspaper ever printed in and issued from a lunatic asylum.”†",
+              "id": "f001-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "This was published and printed at the Vermont Asylum for the Insane, located at Brattleboro. Its first number bears date November 1, 1842. It was originated by a young man seventeen years of age, a printer by",
+              "id": "f001-s-u06"
+            },
+            {
+              "kind": "text",
+              "text": "* Report Vermont Asylum, 1845.\n† Vide same Report.",
+              "id": "f001-s-u07"
+            }
+          ],
+          "notes": [
+            "First article page has no visible printed folio. Its position (42) is established by the original volume contents and the adjacent printed folio 43.",
+            "Both footnotes are transcribed after the final body unit."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f002",
+      "frame": 2,
+      "source": {
+        "canvas": "https://archive.org/details/americanjournalo3318amer/page/n58/mode/1up",
+        "url": "https://archive.org/download/americanjournalo3318amer/page/n58/mode/1up",
+        "original_url": "https://archive.org/download/americanjournalo3318amer/page/n58/mode/1up",
+        "size": [
+          2256,
+          4024
+        ],
+        "sha256": "3a7a2fc2b4ce681882838838ec1a4f7e3f749303b6882aa2bf5da07ed39e4324"
+      },
+      "parts": [
+        {
+          "id": "f002-s",
+          "side": "S",
+          "printed_page": "43",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "text",
+              "text": "trade, who was admitted to the Asylum, July 15, 1842, and the general management of it was almost wholly in his hands during the first two years. Other inmates, however, contributed to its columns; it was a weekly, single sheet, ten by twelve inches in size. The terms were one dollar per annum, and the profits were to be applied to the support of the indigent insane at the Asylum. It bore the appropriate motto. “Semel insanivimus omnes.” “We have all, at some time been mad.” It claimed as its object the dissemination of correct views of the condition and proper treatment of the insane. On the first of January, 1843, the price was reduced to fifty cents per annum, and was so continued for two years. At this time, as several who were engaged in its printing, were “considered by the majority of mankind to be sane” and left the Asylum, the Journal was issued only monthly, and the price was reduced to twenty-five cents per annum. After two years, making an existence of four years, it was suspended. Of the pecuniary aid toward supporting the indigent insane, we can not speak, but a substantial benefit to the patients and the Institution, was derived from its list of exchanges, which exceeded two hundred in number. In his report for the year 1847, Dr. Rockwell observes: “The printing of the Asylum Journal has been discontinued in consequence of the recovery of the printers, who have left the Asylum.”",
+              "id": "f002-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "The next asylum periodical in this country, was the Opal. This was printed and published at the State Asylum at Utica, New York. It was begun on the 1st of January, 1851, issued monthly, in newspaper form, a double sheet, ten by twelve inches, and furnished at fifty cents per annum. Its motto was “Devoted to Usefulness,” and its object to increase the library of",
+              "id": "f002-s-u02"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f003",
+      "frame": 3,
+      "source": {
+        "canvas": "https://archive.org/details/americanjournalo3318amer/page/n59/mode/1up",
+        "url": "https://archive.org/download/americanjournalo3318amer/page/n59/mode/1up",
+        "original_url": "https://archive.org/download/americanjournalo3318amer/page/n59/mode/1up",
+        "size": [
+          2256,
+          4024
+        ],
+        "sha256": "ab3a763a34369d73ffd0b08513bdde8605a45b7ebbe78e318d10a9047ceb56d1"
+      },
+      "parts": [
+        {
+          "id": "f003-s",
+          "side": "S",
+          "printed_page": "44",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "text",
+              "text": "the Institution by the profits, if any accrued, and to extend a knowledge of “our” wants to a generous public who can but be interested in “our” welfare. From the report of the Institution for 1851, we learn that during the first year of its publication it had “an exchange list of two hundred and twenty weeklies, four semi-weeklies, eight dailies and thirty-three monthlies, and that the number was still on the increase.” It was continued in magazine form, double its former size and subscription price. In 1852, its exchange list was increased to over three hundred newspapers and periodicals, and the subscription fund furnished an addition of several hundred volumes to the library. In 1854, it is reported that the avails from the Opal and from the ladies fair amounted to four hundred dollars, which was expended in books, improvements to the green-house and in amusements. In 1855, the amount derived from the same sources was six hundred dollars, which were used to purchase an oil portrait of Dr. A. Brigham, the former Superintendent, and a piano. The report for 1857 contains the last reference to the Opal. “From our printing office are regularly issued the Opal and the AMERICAN JOURNAL OF INSANITY. The former, a monthly of twenty-four pages, now at the close of its seventh volume, is entirely original, and the production of the patients. * * * * * The large number of newspapers and magazines received in exchange furnish abundant reading matter for the entire household. The programmes for our entertainments and concerts, blanks, book labels, &c., are all printed in the Institution. In the building attached to the printing office, all of our exchanges and pamphlets are bound, and the successive issues of the JOURNAL and Opal are stitched and prepared for mailing.” In appearance, the Opal compared favorably with the various subscription magazines.",
+              "id": "f003-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f004",
+      "frame": 4,
+      "source": {
+        "canvas": "https://archive.org/details/americanjournalo3318amer/page/n60/mode/1up",
+        "url": "https://archive.org/download/americanjournalo3318amer/page/n60/mode/1up",
+        "original_url": "https://archive.org/download/americanjournalo3318amer/page/n60/mode/1up",
+        "size": [
+          2256,
+          4024
+        ],
+        "sha256": "3d87c4ed29fbe47bbb3350dc95c006043a77685d910b7fe5e73e442e2c052d06"
+      },
+      "parts": [
+        {
+          "id": "f004-s",
+          "side": "S",
+          "printed_page": "45",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "text",
+              "text": "The first page of the cover was ornamented with an engraving of the illustrious Pinel; the paper was good, the type clear, and the character of the articles interesting. It closed its career with the third number of the tenth volume. We quote from the valedictory. “We believe the world is wiser, if not better for our Opal. It has cleared up so many doubts, dissipated so many errors and wrong opinions concerning monomania and insanity. It has taught outsiders how little difference in ideas there often is between those within and those without the walls. It has shown how very difficult it is to tell where melancholy ends and insanity begins; how narrow the boundary between eccentricity and lunacy, and it might tell how much better insane people behave under the asylum code of etiquette than the world’s votaries often do. It should have taught them that not a multiplicity of cares or anxieties is the chief agent in bringing about such mournful results, but the same enemy to peace,",
+              "id": "f004-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "‘Which crazed King Lear,\nThe continual racking of brain with one idea.’”",
+              "id": "f004-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "The success of the Opal during the first few years of its existence was marked and gratifying. A large edition was printed, and most of it was advantageously disposed of. This flourishing state was, however, of comparatively short duration. After a few years the novelty to the public wore off, subscriptions declined, and exchanges were discontinued. During the last three years an examination of the books, which were kept by an Assistant Physician of the Asylum Staff, show that the receipts amounted to less than the expenditures.",
+              "id": "f004-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "Other causes were also operative; some of its best contributors recovered and were discharged; the editor, the printer and the binder, declined in mental",
+              "id": "f004-s-u04"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f005",
+      "frame": 5,
+      "source": {
+        "canvas": "https://archive.org/details/americanjournalo3318amer/page/n61/mode/1up",
+        "url": "https://archive.org/download/americanjournalo3318amer/page/n61/mode/1up",
+        "original_url": "https://archive.org/download/americanjournalo3318amer/page/n61/mode/1up",
+        "size": [
+          2256,
+          4024
+        ],
+        "sha256": "f8c311878e6d7d1392f96dcc2e608aa982f780430e1c3c74eade0c3b31880d86"
+      },
+      "parts": [
+        {
+          "id": "f005-s",
+          "side": "S",
+          "printed_page": "46",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "text",
+              "text": "power, from the progress of disease, and soon after all died. The breaking out of the war in the spring of 1861 turned the minds of all the household in that direction, and they became much interested in laboring for the cause of the soldiers. This took the place largely, of the work formerly done upon the Opal, and of the fairs. The report of that year shows that the female patients and attendants, employed their leisure time in sewing, knitting, or making lint for the soldiers, and that the men contributed $306.50 in money, which was largely expended for the material worked up by the ladies.",
+              "id": "f005-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "A long interval elapsed before another newspaper venture was made in an American Asylum.",
+              "id": "f005-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "The first number of the Meteor was issued in July, 1872, from the Alabama Insane Hospital. This is a quarterly, single sheet paper, nine by eleven inches. It bears the motto “Lucus a non Lucendo,” which may be freely translated “Light out of Darkness.” It is edited by a patient, and printed at the Hospital by patients. Original communications only are received. Its edition of several hundred copies is distributed to papers and patrons of the Hospital. “We have hauled down our subscription rates, and will in future receive no subscriptions for the paper.” The object of the paper “is to keep the press, the people of Alabama, especially the patrons of the Hospital, en rapport with the doings of the institution, and well abreast with the most advanced views in the care and treatment of the insane.” In the accomplishment of this purpose its columns are largely filled with news of events transpiring in the Hospital, and items from other institutions collected from exchanges. It is pleasantly written, and we doubt not affords amusement as well as substantial advantages to the patients.",
+              "id": "f005-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "The Friend was the title of a paper of the same size as the Meteor, issued from the Pennsylvania State Hos-",
+              "id": "f005-s-u04"
+            }
+          ],
+          "notes": [
+            "Hos- continues as pital on the next page."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f006",
+      "frame": 6,
+      "source": {
+        "canvas": "https://archive.org/details/americanjournalo3318amer/page/n62/mode/1up",
+        "url": "https://archive.org/download/americanjournalo3318amer/page/n62/mode/1up",
+        "original_url": "https://archive.org/download/americanjournalo3318amer/page/n62/mode/1up",
+        "size": [
+          2256,
+          4024
+        ],
+        "sha256": "c61e88ffbec4050e532d4e923f3954aeba683d2ce54f19cf6cae95d01db3528e"
+      },
+      "parts": [
+        {
+          "id": "f006-s",
+          "side": "S",
+          "printed_page": "47",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "text",
+              "text": "pital, at Harrisburg, and “conducted by an Association of Ladies.” It commenced its existence as a monthly, in September, 1872, and was published regularly till April, 1874. The subscription price was fifty cents per annum. Of its special aim and object we gain no information from the number before us. From a letter from Dr. Curwen, the Superintendent of the Hospital, we learn that nearly all connected with it, left the institution some time since, a fact which accounts for its suspension. It was a sprightly little sheet largely made up of short witticisms, many of them excerpts. Its brief existence and its early death leave us little to say, and this should be only good.",
+              "id": "f006-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "This completes our record of American Asylum serials. Our English brethren, however, occupy the field with the following list, which we copy from the Excelsior for January 1873.",
+              "id": "f006-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "So far as we are aware, the following are at present the Literary Serials issued from, or by, Public or Private Lunatic Asylums in this country—its representatives, therefore, of “Lunatic Literature.”",
+              "id": "f006-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "1. Dumfries: “The New Moon: or Crichton Royal Institution Literary Register” . . . “Printed at the Crichton Press, by Adam Richardson.” 4vo, 4pp. Published monthly, price 6d. Begun in 1844: now in its 29th vol., and 337th number. Its motto is",
+              "id": "f006-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "“’Tis with our judgments as our watches: none\nGo just alike: yet each believes his own.\nIn Poets, as true genius is but rare,\nTrue taste as seldom is the Critic’s share:\nBoth must alike from Cynthia borrow light,\nThese born to judge as well as those to write.”—POPE.",
+              "id": "f006-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "2. Edinburgh: “The Morningside Mirror.” . . . “Printed at the Royal Asylum Press: Price 3d or 3s per annum if delivered in town: 3s 6d if by post. Orders and subscriptions to be addressed to Dr. Skae, (now Dr. Clouston,) Royal Edinburgh Asylum. The profits are devoted to the Reading-room of the Asylum,” 8vo, 8pp. Begun in 1845: now in its 28th vol., No. 3. Published monthly. Motto “Perituræ parcite chartæ.”",
+              "id": "f006-s-u06"
+            }
+          ],
+          "notes": [
+            "The opening pital continues Hos- from the previous page. The source prints No. 3 in entry 2."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f007",
+      "frame": 7,
+      "source": {
+        "canvas": "https://archive.org/details/americanjournalo3318amer/page/n63/mode/1up",
+        "url": "https://archive.org/download/americanjournalo3318amer/page/n63/mode/1up",
+        "original_url": "https://archive.org/download/americanjournalo3318amer/page/n63/mode/1up",
+        "size": [
+          2256,
+          4024
+        ],
+        "sha256": "a39c9c42323895db8e14a1fe6319766d616eafd55dd6840b1bd40b01db66cb97"
+      },
+      "parts": [
+        {
+          "id": "f007-s",
+          "side": "S",
+          "printed_page": "48",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "text",
+              "text": "3. Perth: “Excelsior: the Murray Royal Institution Literary Gazette,” begun in 1857—published at irregular intervals—at least once a year: 4to, 8pp. Printed in Perth.",
+              "id": "f007-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "4. York: “The York Star,” issued by “The Asylum, Bootham, York.” Begun in 1857: now in its 14th vol., No. 4. Published quarterly: 8vo, 8pp. “Price 6d, or 2s per annum, post paid. Orders and subscriptions to be addressed to Dr. Needham.” Motto “Lectorem delectando, pariterque monendo.”",
+              "id": "f007-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "5. Church Stretton, Shropshire: “Loose Leaves,” issued in connection with two Private Asylums—one for ladies, conducted by Mrs. Bakewell—the other for gentlemen under Mr. William Hyslop [who is also Editor:] the Physician to both being Dr. M’Lintock. “Published by Baillière, Tindal & Cox, (29 King William Street,) London; Paris and Madrid: and printed at the Journal Printing Works, No. 6 Cannon Street, Birmingham.” Issued at irregular intervals: “Price one penny.” Motto",
+              "id": "f007-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "“Lusus animo debent aliquando dari\nAd cogitandum melior ut redeat sibi:”",
+              "id": "f007-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "the free translation of which is",
+              "id": "f007-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "“We must divert the mind to be able to think.”",
+              "id": "f007-s-u06"
+            },
+            {
+              "kind": "text",
+              "text": "Dr. Needham in Excelsior for January, 1874, says: The York Star was started by myself in January, 1861, and it has appeared at quarterly intervals since that time. Its objects were and are—(1.) To induce those patients possessed of the requisite capacity to engage in literary efforts with an object; (2.) To stimulate the same persons to read and converse with their fellows; (3.) To give an interest and afford subjects of conversation to the whole population of the Asylum; and (4.) To be a repository of really valuable matter, and a record of our doings in the way of amusement and recreation. All these purposes it has fulfilled beyond my expectations. I have made it a rule throughout, that the publication should be what it professes to be—written entirely by patients. No part has been, or is taken in its composition by any sane person.",
+              "id": "f007-s-u07"
+            },
+            {
+              "kind": "text",
+              "text": "From the same source we also learn that, at the Gartnavel Asylum, there was published in 1848, The Chronicles of the Monastery. This had a short existence. There was also issued from the same Institution the Gartnavel Gazette. This was first published in March, 1855, and was continued weekly till the fifth of July following, when the last number appeared.",
+              "id": "f007-s-u08"
+            }
+          ],
+          "notes": [
+            "The 1857 date in list item 4 differs from the 1861 date in the following paragraph. Both are retained as printed."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f008",
+      "frame": 8,
+      "source": {
+        "canvas": "https://archive.org/details/americanjournalo3318amer/page/n64/mode/1up",
+        "url": "https://archive.org/download/americanjournalo3318amer/page/n64/mode/1up",
+        "original_url": "https://archive.org/download/americanjournalo3318amer/page/n64/mode/1up",
+        "size": [
+          2256,
+          4024
+        ],
+        "sha256": "e207441b030f850e06dd381f47a3339ac28caa3dbde2617c4ae184be2f49a949"
+      },
+      "parts": [
+        {
+          "id": "f008-s",
+          "side": "S",
+          "printed_page": "49",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "text",
+              "text": "There are now printed in the English language, six serials, one in the United States, two in England, and three in Scotland. Of these, two are monthlies, two quarterlies, and two are published at irregular intervals. To render such publications really interesting and of any psychological value, they should contain the delusions, the vagaries and incoherences of the insane mind. Too often they are only sane productions, and like the corrected composition of the school boy after it has passed the rigid scrutiny of the master and been prepared for a public rehearsal. The editor, not infrequently himself sane, removes therefrom all evidences of abnormal mental action, and substitutes his own normal thought and modes of reasoning. A glance at almost any of the serials will convince of the truth of this position. That some direction in the way of editing is needed, cannot be denied, but the extent to which this should be allowed is well expressed by Dr. Needham in regard to the York Star, “I edit to the extent of arranging and selecting the articles sent in; but I print them as they come into my hands, without alteration.”",
+              "id": "f008-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "The cause of the failure of so many asylum productions, is found in the changeable character of the population of institutions, and the loss of novelty to both patients and the public. It is true, as with the outside world, that but few persons possess the requisite qualifications which render them capable of conducting a publication, or writing for it. Even when found, in a comparatively short time, they either recover or pass to a condition of feeble-mindedness, which incapacitates them for further literary efforts. In these causes we find the short existence of such issues, and their failure to properly represent the phases of insanity, which alone render them valuable.",
+              "id": "f008-s-u02"
+            }
+          ],
+          "notes": [
+            "Printed signature below article: Vol. XXXIII.—No. I—D. Page 50 starts a separate article."
+          ]
+        }
+      ]
+    }
+  ],
+  "source_rights_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+}
