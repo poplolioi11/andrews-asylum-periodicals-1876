@@ -1,7 +1,7 @@
 {
   "source_title": "Asylum Periodicals",
   "title_zh": "精神病院的院內刊物（1876）",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "language": "en",
   "catalogue": "https://archive.org/details/americanjournalo3318amer/page/n57/mode/1up",
   "manifest": "https://archive.org/metadata/americanjournalo3318amer",
@@ -34,12 +34,12 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "text",
+              "kind": "heading",
               "text": "ASYLUM PERIODICALS.",
               "id": "f001-s-u01"
             },
             {
-              "kind": "text",
+              "kind": "byline",
               "text": "BY JUDSON B. ANDREWS, M. D.\nAssistant Physician, New York State Lunatic Asylum.",
               "id": "f001-s-u02"
             },
@@ -64,14 +64,18 @@
               "id": "f001-s-u06"
             },
             {
-              "kind": "text",
-              "text": "* Report Vermont Asylum, 1845.\n† Vide same Report.",
+              "kind": "footnote",
+              "text": "* Report Vermont Asylum, 1845.",
               "id": "f001-s-u07"
+            },
+            {
+              "kind": "footnote",
+              "text": "† Vide same Report.",
+              "id": "f001-s-u08"
             }
           ],
           "notes": [
-            "First article page has no visible printed folio. Its position (42) is established by the original volume contents and the adjacent printed folio 43.",
-            "Both footnotes are transcribed after the final body unit."
+            "Opening page has no printed folio. Its article pagination is [42] by sequence."
           ]
         }
       ]
@@ -107,7 +111,9 @@
               "id": "f002-s-u02"
             }
           ],
-          "notes": []
+          "notes": [
+            "Running head from left to right: 1876.] | Asylum Periodicals. | 43"
+          ]
         }
       ]
     },
@@ -137,7 +143,9 @@
               "id": "f003-s-u01"
             }
           ],
-          "notes": []
+          "notes": [
+            "Running head from left to right: 44 | Journal of Insanity. | [July,"
+          ]
         }
       ]
     },
@@ -182,7 +190,9 @@
               "id": "f004-s-u04"
             }
           ],
-          "notes": []
+          "notes": [
+            "Running head from left to right: 1876.] | Asylum Periodicals. | 45"
+          ]
         }
       ]
     },
@@ -228,7 +238,8 @@
             }
           ],
           "notes": [
-            "Hos- continues as pital on the next page."
+            "Running head from left to right: 46 | Journal of Insanity. | [July,",
+            "In the first body line the mark after ‘from’ is pale and tapered, unlike the adjacent printed comma after ‘power’; it is treated as a scan or paper blemish, with residual uncertainty."
           ]
         }
       ]
@@ -285,7 +296,7 @@
             }
           ],
           "notes": [
-            "The opening pital continues Hos- from the previous page. The source prints No. 3 in entry 2."
+            "Running head from left to right: 1876.] | Asylum Periodicals. | 47"
           ]
         }
       ]
@@ -352,7 +363,9 @@
             }
           ],
           "notes": [
-            "The 1857 date in list item 4 differs from the 1861 date in the following paragraph. Both are retained as printed."
+            "Running head from left to right: 48 | Journal of Insanity. | [July,",
+            "The t in 'Institution' on the first body line has thin or rubbed print; readable from its outline. The York Star dates 1857 and 1861 are both visibly present in separate passages.",
+            "The tiny low mark after ‘29’ is treated as a blemish: it lacks the comma form visible after ‘Cox’ on the same line."
           ]
         }
       ]
@@ -386,10 +399,15 @@
               "kind": "text",
               "text": "The cause of the failure of so many asylum productions, is found in the changeable character of the population of institutions, and the loss of novelty to both patients and the public. It is true, as with the outside world, that but few persons possess the requisite qualifications which render them capable of conducting a publication, or writing for it. Even when found, in a comparatively short time, they either recover or pass to a condition of feeble-mindedness, which incapacitates them for further literary efforts. In these causes we find the short existence of such issues, and their failure to properly represent the phases of insanity, which alone render them valuable.",
               "id": "f008-s-u02"
+            },
+            {
+              "kind": "signature",
+              "text": "VOL. XXXIII.—No. I—D",
+              "id": "f008-s-u03"
             }
           ],
           "notes": [
-            "Printed signature below article: Vol. XXXIII.—No. I—D. Page 50 starts a separate article."
+            "Running head from left to right: 1876.] | Asylum Periodicals. | 49"
           ]
         }
       ]

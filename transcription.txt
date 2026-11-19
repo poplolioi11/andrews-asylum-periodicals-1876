@@ -16,8 +16,9 @@ The first paper of this character was issued under the following circumstances. 
 
 This was published and printed at the Vermont Asylum for the Insane, located at Brattleboro. Its first number bears date November 1, 1842. It was originated by a young man seventeen years of age, a printer by
 
-* Report Vermont Asylum, 1845.
-† Vide same Report.
+[footnote] * Report Vermont Asylum, 1845.
+
+[footnote] † Vide same Report.
 
 === Source frame 2 ===
 https://archive.org/download/americanjournalo3318amer/page/n58/mode/1up
@@ -114,4 +115,6 @@ https://archive.org/download/americanjournalo3318amer/page/n64/mode/1up
 There are now printed in the English language, six serials, one in the United States, two in England, and three in Scotland. Of these, two are monthlies, two quarterlies, and two are published at irregular intervals. To render such publications really interesting and of any psychological value, they should contain the delusions, the vagaries and incoherences of the insane mind. Too often they are only sane productions, and like the corrected composition of the school boy after it has passed the rigid scrutiny of the master and been prepared for a public rehearsal. The editor, not infrequently himself sane, removes therefrom all evidences of abnormal mental action, and substitutes his own normal thought and modes of reasoning. A glance at almost any of the serials will convince of the truth of this position. That some direction in the way of editing is needed, cannot be denied, but the extent to which this should be allowed is well expressed by Dr. Needham in regard to the York Star, “I edit to the extent of arranging and selecting the articles sent in; but I print them as they come into my hands, without alteration.”
 
 The cause of the failure of so many asylum productions, is found in the changeable character of the population of institutions, and the loss of novelty to both patients and the public. It is true, as with the outside world, that but few persons possess the requisite qualifications which render them capable of conducting a publication, or writing for it. Even when found, in a comparatively short time, they either recover or pass to a condition of feeble-mindedness, which incapacitates them for further literary efforts. In these causes we find the short existence of such issues, and their failure to properly represent the phases of insanity, which alone render them valuable.
+
+VOL. XXXIII.—No. I—D
 
