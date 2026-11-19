@@ -2,7 +2,7 @@
   "cff-version": "1.2.0",
   "message": "Please cite the dataset version and the original publication.",
   "type": "dataset",
-  "title": "精神病院的院內刊物（1876） / Asylum Periodicals — Transcription Dataset",
+  "title": "精神病院的院內刊物(1876) / Asylum Periodicals — Transcription Dataset",
   "version": "0.2.0",
   "date-released": "2026-11-20",
   "authors": [
@@ -25,5 +25,6 @@
     "patient publishing",
     "occupational activity",
     "historical transcription"
-  ]
+  ],
+  "doi": "10.5281/zenodo.24381737"
 }
